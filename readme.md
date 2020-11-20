@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=HJQ2-sJURvA
+
 # Setting up Identity Server
 
 This code accompanies the videos that are hosted in IdentityServer.com that talk about setting up Identity Server. 
